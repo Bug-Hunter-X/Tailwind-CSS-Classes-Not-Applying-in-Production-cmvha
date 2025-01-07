@@ -1,0 +1,1 @@
+This repository demonstrates a bug where Tailwind CSS classes fail to apply in a production environment. The bug is present in the `bug.html` file. The solution, which involves ensuring the correct build process and configuration for Tailwind, is provided in `bugSolution.html`.
